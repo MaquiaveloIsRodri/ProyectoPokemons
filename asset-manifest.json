@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ProyectoPokemons/static/css/main.58f525bc.css",
+    "main.js": "/ProyectoPokemons/static/js/main.d0c3bf50.js",
+    "static/media/pokemon.png": "/ProyectoPokemons/static/media/pokemon.5b8a5f1101a4404b9428.png",
+    "index.html": "/ProyectoPokemons/index.html",
+    "main.58f525bc.css.map": "/ProyectoPokemons/static/css/main.58f525bc.css.map",
+    "main.d0c3bf50.js.map": "/ProyectoPokemons/static/js/main.d0c3bf50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58f525bc.css",
+    "static/js/main.d0c3bf50.js"
+  ]
+}
