@@ -17,12 +17,16 @@
     "redux-thunk": "^2.4.1",
     "thunks": "^4.9.6",
     "web-vitals": "^2.1.4"
+
   },
+  "homepage": "https://MaquiaveloIsRodri.github.io/ProyectoPokemons",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build -r https://POKEMONS@github.com:MaquiaveloIsRodri/ProyectoPokemons"
   },
   "eslintConfig": {
     "extends": [
