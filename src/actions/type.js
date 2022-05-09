@@ -1,6 +1,5 @@
 import Pokemons from "../Api/Pokemons";
 import { Set_Pokemon, FAVORITE_POKEMON, CLICK_FAVORITE, LOADER, VER_FAVORITOS, FALSE_FAVORITE, NUMERO_BUSQUEDA, SET_POKEMON_BUSCADO } from "./Acreditar";
-import React from "react";
 
 const SetPokemon = (payload) => ({
     type: Set_Pokemon,
