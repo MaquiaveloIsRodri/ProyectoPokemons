@@ -1,0 +1,10 @@
+.Container-Spinner{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.411);
+    position: absolute;
+    z-index: 10;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

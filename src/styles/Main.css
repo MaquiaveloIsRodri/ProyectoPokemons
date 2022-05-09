@@ -1,0 +1,71 @@
+.card-img-top{
+    margin: 0 auto;
+    width:130px;
+    height:130px
+}
+.btn{
+    margin-right: 5px;
+    cursor: default;
+}
+.card-favorite{
+    position: absolute;
+    right: 30px;   
+    margin-top: 30px;
+    width: 25px;
+    display: flex;
+    height: 25px;
+    background-image: url('../img/SalirFav.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+.favorite{
+    position: absolute;
+    right: 30px;
+    margin-top: 30px;
+    width: 25px;
+    display: flex;
+    height: 25px;
+    background-image: url('../img/AgregaIcon.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+    .btn {
+        height: 30px;
+        padding: none;
+        font-size: 12px;
+    }
+    .card-img-top{
+        width: 100px;
+        height: 100px;
+    }
+    .favorite{
+        right: 20px;
+        width: 18px;
+        height: 18px;
+        margin-top: 20px;
+    }
+    .card-favorite{
+        right: 20px;
+        width: 18px;
+        height: 18px;
+        margin-top: 20px;
+    }
+    
+}
+@media screen and (max-width: 350px) {
+    .btn {
+        height: 30px;
+        padding: none;
+        font-size: 12px;
+        margin-top: 5px;
+        display: block;
+    }
+
+
+}

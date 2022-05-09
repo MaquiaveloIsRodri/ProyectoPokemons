@@ -1,0 +1,18 @@
+.container-busqueda{
+    display: flex;
+    flex-direction: column;
+    height: 67vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color:#3786fc;
+}
+.busqueda-img{
+    background-image: url('../img/pikachu.png');
+    background-size: cover;
+    background-position: center;
+    width:80px;
+    height:80px;
+    display: block;
+   
+}

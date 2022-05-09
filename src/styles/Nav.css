@@ -1,0 +1,29 @@
+.iconNat{
+    background-image: url(../img/pokemon.png);
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+}
+.nav{
+    border-bottom: 1px solid #0d6efd;
+}
+.ademas{
+    border:2px solid #0d6efd;
+    color: #0d6efd;
+}
+.ademas:hover{
+    background-color: #0d6efd;
+    color: white;
+    border:2px solid #0d6efd;
+}
+a.agrego{
+    color: #0d6efd;
+}
+.nav-link{
+    margin-left: 40px;
+    cursor: pointer;
+
+}
+.navbar{
+    margin-bottom: 20px;
+}
