@@ -2,6 +2,7 @@
   "name": "pokemon",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://MaquiaveloIsRodri.github.io/ProyectoPokemons",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -18,7 +19,6 @@
     "thunks": "^4.9.6",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://MaquiaveloIsRodri.github.io/ProyectoPokemons",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
